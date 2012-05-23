@@ -2,11 +2,11 @@
 
 <h4>I - Importer le css dans votre projet</h4>
 	
-In head
+Html head
 
-	<link rel="stylesheet" type="text/css" href="/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="microbankcss.css" />
 OR
 
-Import
+Css import
 
 	@import url(microbankcss.css);
